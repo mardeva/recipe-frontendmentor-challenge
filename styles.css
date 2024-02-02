@@ -10,10 +10,28 @@ main {
     color: hsl(24, 5%, 18%);
 }
 
-.article__image {
+.article__image {    
     width: 100%;
-    padding: 2rem;
     margin: auto;
+    
+/* Footer */
+footer {
+    /* background-color: hsl(30, 54%, 90%); */
+    background-color: hsl(330, 100%, 98%);
+    width: 100vw;
+    margin-top: 1.2rem;
+    min-height: 100px;
+}
+
+.attribution {
+    font-size: 11px;
+    padding-top: 2.4rem;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
 
 }
 
