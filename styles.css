@@ -13,26 +13,6 @@ main {
 .article__image {    
     width: 100%;
     margin: auto;
-    
-/* Footer */
-footer {
-    /* background-color: hsl(30, 54%, 90%); */
-    background-color: hsl(330, 100%, 98%);
-    width: 100vw;
-    margin-top: 1.2rem;
-    min-height: 100px;
-}
-
-.attribution {
-    font-size: 11px;
-    padding-top: 2.4rem;
-    text-align: center;
-}
-
-.attribution a {
-    color: hsl(228, 45%, 44%);
-}
-
 }
 
 section {
@@ -67,7 +47,6 @@ h3 {
 .recipe__div--title {
     color: hsl(332, 51%, 32%);
 }
-
 
 .recipe__div {
     margin: 2rem 0 1rem;
@@ -144,10 +123,8 @@ tr:last-child td {
 
 }
 
-
 /* Footer */
 footer {
-    background-color: hsl(30, 54%, 90%);
     background-color: hsl(330, 100%, 98%);
     width: 100vw;
     margin-top: 1.2rem;
@@ -169,13 +146,12 @@ footer {
 
     body {
         background-color: hsl(30, 54%, 90%);
-        /* padding: 5rem; */
+        
     }
 
     main {
         width: 60%;
         background-color: hsl(0, 0%, 100%);
-        /* margin: 5rem auto; */
         border-radius: 20px;
 
     }
@@ -186,7 +162,6 @@ footer {
 
     .article__image {
         border-radius: 20px;        
-        /* margin: 1rem auto 2rem; */
         
     }
 
@@ -221,24 +196,3 @@ footer {
     }
 
 }
-
-
-
-/* ### Primary
-
-- Nutmeg: 
-- Dark Raspberry: hsl(332, 51%, 32%)
-
-### Neutral
-
-- White: hsl(0, 0%, 100%)
-- Rose White: hsl(330, 100%, 98%)
-- Eggshell: hsl(30, 54%, 90%)
-- Light Grey: hsl(30, 18%, 87%)
-- Wenge Brown: hsl(30, 10%, 34%)
-- Dark Charcoal: hsl(24, 5%, 18%)
- */
-
-
-/* font-family: 'Outfit', sans-serif;
-font-family: 'Young Serif', serif; */
