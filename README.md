@@ -21,7 +21,7 @@ Challenge de Frontend Mentor realizado a fines de practicar HTML5, CSS3 y diseñ
 
 ### Screenshots
 
-![Solution web design](<webdesing - readme .jpg>)
+![Solution Web Design](<webdesing - readme-1.jpg>)
 
 ### Links
 
